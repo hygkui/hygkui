@@ -1,5 +1,7 @@
 # 👾 Hey, be happy~
 
+[🇨🇳 中文版本](./README.zh-CN.md)
+
 ### A human who lives with AI (and occasionally fixes its disasters)
 
 > **“AI writes nonsense.
