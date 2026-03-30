@@ -1,5 +1,7 @@
 # 👾 Hey, be happy~
 
+I am a Full-stack Builder.
+
 [🇨🇳 中文版本](./README.zh-CN.md)
 
 > **“AI writes nonsense. | I debug its nonsense. | Harmony.”**
