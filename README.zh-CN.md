@@ -6,6 +6,8 @@
 
 我在用 AI 工具强力「超频」： 🥤 燃料储备：咖啡因、咖啡因、无法入睡。
 
+[![Tokscale Stats](https://tokscale.ai/api/embed/hygkui/svg?compact=1)](https://tokscale.ai/u/hygkui)
+
 ## 🧠 技术 + 手艺
 
 反正没人关心，有 AI 在手，我无所不能。
