@@ -4,13 +4,10 @@ I am a Full-stack Builder.
 
 [🇨🇳 中文版本](./README.zh-CN.md)
 
-> **“AI writes nonsense. | I debug its nonsense. | Harmony.”**
 
-##  I’m **super-charged by AI tools** And 🥤 Powered by caffeine, sarcasm, and failing build pipelines
+**I’m **super-charged by AI tools** And 🥤 Powered by caffeine, sarcasm, and failing build pipelines**
 
-## 🧠 Tech + Chaos Stack
-
-But, who cares? I can do anything with AI.
+[![Tokscale Stats](https://tokscale.ai/api/embed/hygkui/svg?compact=1)](https://tokscale.ai/u/hygkui)
 
 ## ✉️ Ping me
 
